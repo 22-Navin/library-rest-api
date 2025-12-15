@@ -28,5 +28,18 @@ The project follows standard RESTful design practices, including meaningful endp
 
 Overall, this project serves as a foundational backend application that demonstrates how RESTful APIs are built and tested using Python and Flask. It provides practical experience in server-side development, API communication, and data management. The structure and functionality of this project can be easily extended in the future by integrating a database, adding authentication, or deploying the API to a cloud platform. This makes it a strong starting point for anyone looking to deepen their understanding of backend development and REST API design
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bcd7d39a-b327-4d3f-b2b5-afde7f15657e" /> 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fdc8b253-23c5-4015-82cc-306b602736c0" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/226be734-6ef5-453d-a3f3-8b0d83088ccd" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/852f41ac-57c2-4dae-b3fd-fcd6f1049e1e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/33c11c10-6491-4ee7-893d-a6e50b336dd2" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/69d32be5-1d4f-4329-b08a-a558377224ac" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/338d5a15-2dc8-4a43-b4e6-a7426ac9fa2e" /> 
 
 
